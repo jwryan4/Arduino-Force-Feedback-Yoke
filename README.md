@@ -1,4 +1,4 @@
-# Arduino-Force-Feedback-Yoke "NOT THE ORIGNIAL PROJECT!! THAT'S HERE: https://github.com/jwryan4/Arduino-Force-Feedback-Yoke"
+# Arduino-Force-Feedback-Yoke 
 CAD Files for GAGAGU FFB Flight Sim Yoke
 
 I am going to try and update as much as I can so that We have everything needed to complete the new V2 project. 
